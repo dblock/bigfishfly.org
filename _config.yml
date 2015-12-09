@@ -1,0 +1,34 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://bigfishfly.org
+title: Big Fish Fly
+email: dblock+bigfishfly@dblock.org
+author: Daniel Doubrovkine
+description: A free subject line for all those e-mails without a subject.
+copyright: 'Copyright &copy; 2015 <a href="https://twitter.com/dblockdotorg">Daniel Doubrovkine</a>. All Rights Reserved.'
+credits: 'Big fish fly is a subject line I got from Carol Malki.<br />Landing Page is an open-source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    type: twitter
+    url: https://twitter.com/dblockdotorg
+  - title: github
+    type: github
+    url: https://github.com/dblock/bigfishfly.org
+  - title: wtfpl
+    type: file-text
+    url: http://www.wtfpl.net
