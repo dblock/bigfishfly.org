@@ -1,0 +1,8 @@
+---
+layout: default
+img: linkedin.jpg
+category: Fish
+title: LinkedIn InMail
+description: |
+---
+  I have an AMAZING opportunity for you!

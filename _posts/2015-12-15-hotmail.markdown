@@ -1,0 +1,8 @@
+---
+layout: default
+img: hotmail.jpg
+category: Fish
+title: Hotmail
+description: |
+---
+  The world's FREE web-based email. 2MB of storage!

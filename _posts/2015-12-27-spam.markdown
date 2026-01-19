@@ -1,0 +1,8 @@
+---
+layout: default
+img: spam.jpg
+category: Fish
+title: Spam Folder
+description: |
+---
+  Why is my legitimate email about fish in spam?

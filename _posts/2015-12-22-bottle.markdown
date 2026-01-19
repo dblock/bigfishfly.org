@@ -1,0 +1,8 @@
+---
+layout: default
+img: bottle.jpg
+category: Fish
+title: Message in a Bottle
+description: |
+---
+  Delivery time: 3-500 years.
